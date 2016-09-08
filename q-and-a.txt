@@ -1,27 +1,28 @@
 Please answer the following questions:
 
 1. What is your full name?
-
+Samantha Ulin
 
 
 2. What is the username for your GitHub account?
-
+shu2019
 
 
 3. Where is your hometown?
-
+Hillsdale, NJ
 
 
 4. What is your favorite local restaurant?
-
+Red Koi
 
 
 5. Name the last good book you read (title, author?).
-
+"Yes Please" by Amy Poehler
 
 
 6. Which album/artist is in heavy rotation on your iPod/iPhone/MP3 player/stream?
-
+Ben Rector
 
 
 7. If you were to build a web site for fun, what would it be about?
+I've always wanted to create a real blogging platform since I love to write!
